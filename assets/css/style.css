@@ -1476,13 +1476,15 @@ header .menu_cart .check_out:hover{
     color: #fff;
 }
 .banner-seven .banner-item{
-    background-image: url(../../images/banner/banner_7.01.png);
+    background-image: url(../../images/banner/banner_7.01.jpg);
+    background-size: cover;
+    width: 100vw;
 }
 .banner-seven .banner-item.slide-two{
     background-image: url(../../images/banner/banner_7.02.png);
 }
 .banner-seven .banner-item.slide-three{
-    background-image: url(../../images/banner/banner_7.03.png);
+    background-image: url(../../images/banner/banner_7.03.jpg);
 }
 .banner-seven .banner-item .banner-content{
     text-align: center;
